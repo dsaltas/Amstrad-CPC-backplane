@@ -5,4 +5,4 @@ This in an expansion board that plugs into the 50-pin edge connector on the rear
 It provides 4 expansion slots, allowing users to connect multiple peripherals simultaneously, such as RAM expansions, ROM boxes, or floppy emulators.
 
 ![Top](photos/top.png)
-![Bottom](photos/IMG_772.jpeg)
+![Bottom](photos/IMG_0772.jpeg)
